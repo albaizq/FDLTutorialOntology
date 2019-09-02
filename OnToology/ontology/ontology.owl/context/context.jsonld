@@ -24,6 +24,9 @@
     },
     "Staff" : {
       "@id" : "https://w3id.org/def/university#Staff"
+    },
+    "AdministrativeStaff" : {
+      "@id" : "https://w3id.org/def/university#AdministrativeStaff"
     }
   }
 }

@@ -41,6 +41,11 @@
                rdfs:label "Academic staff" .
 
 
+###  https://w3id.org/def/university#AdministrativeStaff
+:AdministrativeStaff rdf:type owl:Class ;
+                     rdfs:label "Administrative Staff" .
+
+
 ###  https://w3id.org/def/university#Course
 :Course rdf:type owl:Class ;
         rdfs:label "Course" .

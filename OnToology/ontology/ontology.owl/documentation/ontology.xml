@@ -81,6 +81,15 @@
     
 
 
+    <!-- https://w3id.org/def/university#AdministrativeStaff -->
+
+
+    <owl:Class rdf:about="https://w3id.org/def/university#AdministrativeStaff">
+        <rdfs:label>Administrative Staff</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- https://w3id.org/def/university#Course -->
 
 
